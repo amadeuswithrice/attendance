@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "attendace system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Johnald John A. Trinidad (e-precision IT-Head)",
+  "license": "ISC",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
